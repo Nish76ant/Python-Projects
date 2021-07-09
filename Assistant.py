@@ -7,8 +7,7 @@ It is capable of opening websites like Google, Youtube, etc., in a web browser.
 It is capable of opening your code editor or IDE with a single voice command.
 Enough talk! Let's start building our own Assistant....
 
-1 – Starting VS Code
-I am going to use the VS Code IDE in this video. Feel free to use any other IDE you are comfortable d with. 
+1 – Starting VS Code. 
 Start a new project and make a file called jarvis.py.
 
 2 – Defining Speak Function
